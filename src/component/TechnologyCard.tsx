@@ -41,7 +41,7 @@ const TechnologyCard = ({
                 {technology.name}
             </h3>
 
-            <p className="text-sm text-gray-500 mt-2 min-h-[60px]">
+            <p className="text-sm text-gray-500 mt-2 min-h-15">
                 {technology.description}
             </p>
 
