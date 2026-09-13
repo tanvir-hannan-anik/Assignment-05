@@ -1,16 +1,17 @@
-import HeroSection from "./component/HeroSection"
-import Nav from "./component/Nav"
-import './App.css'
+import HeroSection from "./component/HeroSection";
+import Nav from "./component/Nav";
+import TechnologySection from "./component/TechnologySection";
+import "./App.css";
 
 function App() {
 
-
-  return (
-    <>
-      <Nav></Nav>
-      <HeroSection></HeroSection>
-    </>
-  )
+    return (
+        <>
+            <Nav />
+            <HeroSection />
+            <TechnologySection />
+        </>
+    );
 }
 
-export default App
+export default App;
