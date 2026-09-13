@@ -1,5 +1,3 @@
-import React from "react";
-
 export interface Technology {
     id: string;
     name: string;

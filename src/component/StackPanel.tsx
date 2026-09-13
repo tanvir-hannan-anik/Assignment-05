@@ -1,4 +1,3 @@
-import React from "react";
 import type { Technology } from "./TechnologyCard";
 
 interface StackPanelProps {
